@@ -82,6 +82,7 @@ public slots:
     void click_btn_clicked_slot();
     //void add_rect_slot(QRect add_rect);
     //void del_rect_slot(int);
+	//
 };
 
 #endif // IMG_WIDGET_H
